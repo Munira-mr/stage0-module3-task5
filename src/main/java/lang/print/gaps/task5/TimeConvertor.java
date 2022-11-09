@@ -8,7 +8,7 @@ public class TimeConvertor {
 
     public static void main(String[] args) {
         TimeConvertor t=new TimeConvertor();
-        t.convert(3.8);
+        t.convert(11.5);
 
     }
 }
