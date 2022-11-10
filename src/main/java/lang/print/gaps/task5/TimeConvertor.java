@@ -6,9 +6,4 @@ public class TimeConvertor {
         System.out.println(minutes+" minutes= "+seconds+" seconds");
     }
 
-    public static void main(String[] args) {
-        TimeConvertor t=new TimeConvertor();
-        t.convert(115);
-
-    }
 }
