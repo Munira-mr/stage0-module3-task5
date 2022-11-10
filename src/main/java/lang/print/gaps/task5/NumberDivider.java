@@ -6,8 +6,4 @@ public class NumberDivider {
         System.out.println(result);
     }
 
-    public static void main(String[] args) {
-        NumberDivider numberDivider=new NumberDivider();
-        numberDivider.divide(25);
-    }
 }
